@@ -1,16 +1,67 @@
-# after_life
+After Life - Digital Afterlife MVP
 
-A new Flutter project.
+🚀 About The Project
 
-## Getting Started
+After Life is a Minimal Viable Product (MVP) designed to preserve digital memories and interactions beyond life. This Flutter-based application provides users with a memory archive, voice and text recording features, and an interactive chatbot to simulate digital afterlife conversations.
 
-This project is a starting point for a Flutter application.
+📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+Elegant & Futuristic UI 🌌 (Dark gradient background, neon blue effects)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Home Screen 🏠 with a glowing 'After Life' title & 'Let's Dive' button
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Memory Archive 📂 to store text & voice memories
+
+Chatbot Interface 🤖 for simulated conversations with AI
+
+Smooth animations & interactions ✨
+
+🎨 UI Design & Color Scheme
+
+Background: Dark gradient (Deep Blue to Black)
+
+Text: Soft Blue (#00AEEF)
+
+Primary Buttons: Neon Blue (#007BFF) with glow effect
+
+Chatbot Page: Midnight Blue with soft white text
+
+Message Bubbles: Rounded, smooth transitions
+
+Typing Animation: Three-dot pulsating effect
+
+🏗️ Tech Stack
+
+Flutter (Dart)
+
+Android Studio (IDE)
+
+Material Design Components
+
+🚀 Getting Started
+
+Prerequisites
+
+Make sure you have the following installed:
+
+Flutter
+
+Dart
+
+Android Studio
+
+A connected Android Emulator or physical device
+
+Installation
+
+Clone the repository:
+
+git clone https://github.com/your-username/After-Life.git
+cd After-Life
+
+Install dependencies:
+
+flutter pub get
+
+Run the app:
+flutter run
